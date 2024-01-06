@@ -54,4 +54,4 @@ Untuk menghubungkan laptop dengan wemos d1 mini
 Sensor cahaya akan mendeteksi cahaya disekitarnya. Jika sensor mendeteksi cahaya yang terang, maka lampu akan otomatis mati. Jika sensor mendeteksi cahaya redup/tidak ada cahaya, maka lampu akan hidup otomatis. Selain itu, lampu bisa diatur manual dengan semacam aplikasi.
 
 # KESIMPULAN
-Alat ini belum berhasil dibuat karena ada beberapa kesalahan yang belum bisa diselesaikan. Entah itu kesalahan dari codingan yang buat atau kesalahan dalam merangkai alat. Selanjutnya kami akan mencoba lagi agar alat ini bisa digunakan 
+Alat sudah berhasil dibuat, sensor bisa membaca cahaya, saat sensor LDR membaca cahaya lampu akan mati dan sebaliknya. Tapi untuk mengatur mati dan menyala secara manual belum bisa
