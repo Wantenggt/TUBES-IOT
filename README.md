@@ -48,17 +48,6 @@ Untuk menghubungkan laptop dengan wemos d1 mini
 * MQTT - MQTT (Message Queuing Telemetry Transport) adalah protokol komunikasi ringan yang dirancang untuk digunakan pada kondisi jaringan yang tidak stabil atau dengan bandwidth terbatas.
 
 3. Harga
-No.	Nama Barang	Jumlah	Harga
-1	Relay	1	10000
-2	Breadboard	2	6000
-3	Wemos D1 Mini	1	27000
-4	Sensor LDR	1	7000
-5	Kabel	1	5000
-6	Fitting	1	8000
-7	Stekker	1	2000
-8	Kabel Jumper	1	26000
-9	Lampu	1	10000
-Total			101000
 ![image](https://github.com/Wantenggt/TUBES-IOT/assets/146419439/af6525d7-2842-4158-a76f-26bef08c067a)
 
 # CARA KERJA ALAT
